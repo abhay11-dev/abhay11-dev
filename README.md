@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2F81F7&height=220&section=header&text=Abhayraj%20Singh%20Mandloi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Backend%20%26%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
+<h1>👋 Abhayraj Singh Mandloi</h1>
+<h3>Software Development Engineer | Backend &amp; Full-Stack</h3>
 
-<img src="https://profile-counter.glitch.me/abhay11-dev/count.svg" alt="profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=abhay11-dev.abhay11-dev&left_color=grey&right_color=blue" alt="profile views" />
 
 <a href="https://linkedin.com/in/abhayraj-mandloi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:abhayrajsinghmandloi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -68,15 +69,7 @@ fun_fact:    1000+ DSA problems solved · Global Top 20 on Codolio
 
 <br/>
 
-## 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhay11-dev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<br/>
 
 ## 🚀 Featured Projects
 
@@ -88,9 +81,6 @@ fun_fact:    1000+ DSA problems solved · Global Top 20 on Codolio
 <a href="https://github.com/abhay11-dev/payverse">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhay11-dev&repo=payverse&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/abhay11-dev/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhay11-dev&repo=Portfolio&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
@@ -98,7 +88,6 @@ fun_fact:    1000+ DSA problems solved · Global Top 20 on Codolio
 |---|---|---|
 | **ShareMyRide** | Ride-lifecycle state machine, live GPS tracking with offline-buffer replay, SOS safety flow with audit-logged consent | MERN, Socket.IO, Razorpay |
 | **PayVerse** | 6-service fintech architecture (Gateway/User/Wallet/Payment/Notification/Ledger), Kafka async messaging, Redis caching | Java, MySQL, Redis, Kafka, Docker |
-| **Portfolio** | Personal site showcasing projects and write-ups | JavaScript |
 
 <br/>
 
